@@ -7,7 +7,7 @@
 
 > ✍️👨‍💻 - Theme: World Hunger Problem - FIAP
 
-The Global Solution is an evaluative work in a group of 3 participants on a recurring theme, the theme of this semester was "Hunger". On this subject, I developed a Java work on challenges from a list of exercises proposed by the teacher (I did the Java part alone).
+The Global Solution is an evaluative work in a group of 3 participants on a recurring theme, this semester's theme was “Hunger”. About that, my group decided the theme: Regenerative Agriculture - So I developed a website using html and css following all the rules proposed by the professor.
 
 ## Download
 
