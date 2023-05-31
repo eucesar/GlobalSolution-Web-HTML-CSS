@@ -1,0 +1,38 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.btn1:hover {
+    background-color: var(--branco);
+    color: var(--preto);
+    border: solid var(--verde);
+}
+
+.link1:hover {
+    color: var(--branco);
+    font-size: 20px;
+}
+
+.btn:hover {
+    background-color: transparent;
+    color: var(--branco);
+    border: 2px solid var(--verde);
+}
+
+.nav:hover{
+    background-color: var(--cinza);
+}
+
+.btn2:hover {
+    font-size: 20px;
+    background-color: var(--verde);
+    color: var(--preto);
+    border: 2px solid var(--verde);
+
+}
+
+.btn3:hover{
+    background-color: var(--verde);
+    color: var(--branco);
+    border: 2px solid var(--verde);
+}
